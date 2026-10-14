@@ -4,7 +4,7 @@
 
 FIN-SHIELD helps investigators analyze suspicious financial advertisements: it extracts evidence from ad copy, produces explainable risk indicators, and surfaces potentially related advertisements as evidence-backed campaign clusters.
 
-🔗 **Live demo:** [fin-shield-jet.vercel.app](https://fin-shield-jet.vercel.app)
+🔗 **Live demo:** [fin-shield-jet.vercel.app](https://fin-shield-jet.vercel.app/)
 
 > ⚠️ **Important:** Risk scores and relationships are **not proof of fraud** and are **not a probability of crime**. FIN-SHIELD is an investigation aid, not a verdict engine. All findings require human review.
 >
